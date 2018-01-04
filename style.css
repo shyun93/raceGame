@@ -1,0 +1,53 @@
+body {
+    font-family: Amatic SC;
+}
+
+hr {
+    display: block;
+    border-top: 2px solid black;
+    clear: both;
+}
+
+.buttons {
+    text-align: center;
+    font-family: Amatic SC;
+    font-weight: bold;
+    font-size: 160%;
+}
+
+.reset {
+    font-family: Amatic SC;
+    font-size: 50%;
+    font-weight: bold;
+}
+
+.title {
+    text-align: left;
+    float: left;
+}
+
+.score {
+    text-align: right;
+    float: right;
+}
+
+.lane {
+    border-top: 3px dashed;
+    left: 0;
+}
+
+.p1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.p2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.one, .two{
+    position: relative;
+
+}
+
